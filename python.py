@@ -1,1 +1,1 @@
-echo "Bonjour"
+print("Bonjour")
